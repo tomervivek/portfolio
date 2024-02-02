@@ -35,7 +35,7 @@ const Projects = () => {
   
   return (
     <section className="shadow-t-3xl">
-    <div className="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8 lg:py-16">
+    <div className="mx-auto max-w-screen-xl px-4 py-8 sm:px-6  lg:px-8 ">
       <div className="relative mx-auto max-w-full text-center">
         <div className="absolute inset-0 "></div>
   

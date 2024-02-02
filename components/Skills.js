@@ -33,7 +33,7 @@ export default function Skills() {
                   <h1 className="text-4xl font-bold tracking-tight text-gray-900 ">
                   Technical Skills
                   </h1>
-                  <p className="relative mt-6 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">
+                  <p className="relative mt-2 text-lg  text-gray-600 sm:max-w-md lg:max-w-none">
                   As a skilled and enthusiastic developer, I possess expertise in a range of technologies and frameworks. Here's an overview of my key skills:  
                   </p>
                   <SkillComponent />
@@ -44,7 +44,7 @@ export default function Skills() {
                       <img
                         src="/js-removebg-preview.png"
                         alt=""
-                        className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-contain shadow-lg"
+                        className="aspect-[3/4] w-full rounded-xl bg-gray-900/5 object-contain shadow-lg"
                       />
                       <div className="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10" />
                     </div>
@@ -54,7 +54,7 @@ export default function Skills() {
                       <img
                         src="/react-removebg-preview.png"
                         alt=""
-                        className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-contain shadow-lg"
+                        className="aspect-[3/4] w-full rounded-xl bg-gray-900/5 object-contain shadow-lg"
                       />
                       <div className="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10" />
                     </div>
@@ -62,7 +62,7 @@ export default function Skills() {
                       <img
                         src="/next.png"
                         alt=""
-                        className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-contain shadow-lg"
+                        className="aspect-[3/4] w-full rounded-xl bg-gray-900/5 object-contain shadow-lg"
                       />
                       <div className="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10" />
                     </div>
@@ -72,7 +72,7 @@ export default function Skills() {
                       <img
                         src="/html.png"
                         alt=""
-                        className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-contain shadow-lg"
+                        className="aspect-[3/4] w-full rounded-xl bg-gray-900/5 object-contain shadow-lg"
                       />
                       <div className="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10" />
                     </div>
@@ -80,7 +80,7 @@ export default function Skills() {
                       <img
                         src="/css-removebg-preview.png"
                         alt=""
-                        className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-contain shadow-lg"
+                        className="aspect-[3/4] w-full rounded-xl bg-gray-900/5 object-contain shadow-lg"
                       />
                       <div className="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10" />
                     </div>
@@ -88,7 +88,7 @@ export default function Skills() {
                     <img
                       src="/tailwind.png"
                       alt=""
-                      className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-contain shadow-lg"
+                      className="aspect-[3/4] w-full rounded-xl bg-gray-900/5 object-contain shadow-lg"
                     />
                     <div className="pointer-events-none absolute inset-0 rounded-xl ring-1 ring-inset ring-gray-900/10" />
                   </div>

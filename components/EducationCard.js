@@ -4,6 +4,7 @@ import Link from 'next/link'
 import { motion, useMotionTemplate, useMotionValue } from 'framer-motion'
 
 import { GridPattern } from '@/components/GridPattern'
+import { AcademicCapIcon } from '@heroicons/react/24/outline'
 
 const resources = [
   {
@@ -114,16 +115,17 @@ function Resource({ resource }) {
       className="group relative flex rounded-2xl bg-zinc-50 transition-shadow hover:shadow-md hover:shadow-zinc-900/5 dark:bg-white/2.5 dark:hover:shadow-black/5"
     >
       <ResourcePattern {...resource.pattern} mouseX={mouseX} mouseY={mouseY} />
-      <div className="absolute inset-0 rounded-2xl ring-1 ring-inset ring-zinc-900/7.5 group-hover:ring-zinc-900/10 dark:ring-white/10 dark:group-hover:ring-white/20" />
-      <div className="relative rounded-2xl px-4 pb-4 pt-16">
+      <div className="absolute inset-0 rounded-2xl ring-1 ring-inset ring-zinc-900/7.5 ring-zinc-900/10" />
+      <div className="relative rounded-2xl  pb-4 ">
     
-        <h3 className="mt-4 text-sm font-semibold leading-7 text-zinc-900 dark:text-white">
+        <h3 className="mt-4 px-4 text-sm font-semibold leading-7 text-zinc-900 dark:text-white">
+        <AcademicCapIcon className='h-14 w-14 text-gray-700 opacity-80' />
           <p>
           <span className='text-[#37B5B6] text-base font-bold'> {resource.degree}</span> 
           <div>{resource.institution}</div>
           </p>
         </h3>
-        <p className="mt-1 text-sm text-zinc-600 dark:text-zinc-400">
+        <p className="mt-1 px-4 text-sm text-zinc-600 dark:text-zinc-400">
           {resource.description}
         </p>
       </div>

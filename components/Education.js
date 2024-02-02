@@ -32,7 +32,7 @@ const Education = () => {
         <div className="mx-auto max-w-screen-xl px-4 pb-10  sm:px-6 lg:px-8">
         <div className="relative mx-auto  text-center">
         <div className=""></div>
-        <div className="relative z-10 p-4">
+        <div className="relative z-10 p-4 pb-2">
           <h2 className="text-3xl text-black font-bold sm:text-4xl">Education</h2>
           <p className="mt-2 mb-4 text-gray-600">
           A journey through my educational background and milestones.

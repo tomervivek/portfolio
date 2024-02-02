@@ -19,7 +19,7 @@ var arr=[ 7,1,2,3,4,5,"React","Javascript","NextJs","React Native","Python","Htm
           <div className="mx-auto text-center lg:mx-0 mt-36 lg:flex-auto items-center justify-center lg:center">
             <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">
               Vivek Singh 
-              <div className="text-lg leading-8 text-gray-300"><span className="text-[#37B5B6]">Programmer</span> at SAS ONE Private Limited</div>
+           
             </h2>
             <p className="mt-2 text-lg leading-8 text-gray-300">
               Crafting Digital Excellence: Journey into Software Development with Innovation and Expertise

@@ -5,6 +5,7 @@ import Banner from '@/components/Banner'
 import Projects from '@/components/Projects'
 import Education from '@/components/Education'
 import Skills from '@/components/Skills'
+import Experience from '@/components/Experience'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -17,9 +18,10 @@ export default function Home() {
 
     
     <Banner />
-
-    <Projects />
+<Experience />
 <Skills />
+    <Projects />
+
 <Education />
     </main>
   )
