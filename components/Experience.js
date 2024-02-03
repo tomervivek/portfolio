@@ -1,6 +1,6 @@
 const Experience = () => {
   return (
-    <section class=" md:pt-8 -mt-16 lg:mt-0 sm:-mt-10">
+    <section class=" md:pt-8 -mt-16 lg:mt-4 sm:-mt-10">
       <div class="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8">
         <div class="shadow rounded-xl">
           <div class="lg:grid overflow-hidden text-white shadow-xl md:grid-cols-2 bg-white rounded-xl">
@@ -10,7 +10,7 @@ const Experience = () => {
               </h2>
               <div className="flex flex-col sm:flex-row justify-between">
                 <div className="text-gray-600 ">
-                  <span className="text-base font-semibold text-[#37B5B6]">
+                  <span className="text-base font-semibold text-[#5C8374] ">
                     Frontend Developer{" "}
                   </span>
                 </div>

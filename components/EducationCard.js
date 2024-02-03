@@ -118,10 +118,10 @@ function Resource({ resource }) {
       <div className="absolute inset-0 rounded-2xl ring-1 ring-inset ring-zinc-900/7.5 ring-zinc-900/10" />
       <div className="relative rounded-2xl  pb-4 ">
     
-        <h3 className="mt-4 px-4 text-sm font-semibold leading-7 text-zinc-900 dark:text-white">
-        <AcademicCapIcon className='h-14 w-14 text-gray-700 opacity-80' />
+        <h3 className="mt-4 px-4 text-sm font-semibold leading-7 text-zinc-900">
+        <AcademicCapIcon className='h-14 w-14 text-[#5C8374] opacity-80' />
           <p>
-          <span className='text-[#37B5B6] text-base font-bold'> {resource.degree}</span> 
+          <span className='text-[#5C8374] text-base font-bold'> {resource.degree}</span> 
           <div>{resource.institution}</div>
           </p>
         </h3>
