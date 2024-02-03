@@ -24,7 +24,7 @@ export default function Home() {
       className={` min-h-screen bg-cover bg-end`} 
     >
     <Head>
-    <title>Vivek singh - Frontend developer</title>
+    <title>Vivek singh - Frontend Developer</title>
     <meta name="description" content="Ready to elevate your team with my skills. Let's connect and discuss how I can contribute to your next project." />
     <meta property="og:title" content="Vivek singh - Frontend developer" />
     <meta property="og:description" content="Ready to elevate your team with my skills. Let's connect and discuss how I can contribute to your next project." />
