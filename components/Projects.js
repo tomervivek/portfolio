@@ -62,7 +62,7 @@ const Projects = () => {
               </h2>
               <div class="space-y-6 pt-5 text-base leading-7  text-gray-200 transition-all duration-300 group-hover:text-white/90">
                 <p>
-                  Over the course of the period beginning from 26th July, 2021
+                  Over the course of the period beginning from September, 2021
                   until the present, I have successfully completed several
                   projects. These projects showcase my expertise and dedication.
                 </p>
