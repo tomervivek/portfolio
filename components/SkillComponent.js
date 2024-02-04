@@ -9,7 +9,10 @@ const SkillComponent = () => {
         <div className="space-y-1">
           <h3 className="text-base font-semibold text-[#5C8374]">Frontend Development</h3>
           <p className="text-gray-700 text-sm">
-          Experienced in building responsive and dynamic user interfaces not only for web applications but also for mobile platforms, leveraging React Native.  Proficient in developing single-page applications with React.js and Next.js. Possess a solid grasp of semantic HTML5 and CSS3. Additionally, adept in utilizing Tailwind CSS for streamlined and efficient styling.
+          Experienced in building responsive and dynamic user interfaces not only for 
+          web applications but also for mobile platforms, leveraging <span className='text-black font-semibold'>React Native</span>.  
+          Proficient in developing single-page applications with <span className='text-black font-semibold'>React.js</span> and <span className='text-black font-semibold'>Next.js</span>
+          . Possess a solid grasp of semantic <span className='text-black font-semibold'>HTML5</span> and <span className='text-black font-semibold'>CSS3</span>. Additionally, adept in utilizing <span className='text-black font-semibold'>Tailwind CSS</span> for streamlined and efficient styling.
           </p>
         </div>
 
@@ -18,7 +21,7 @@ const SkillComponent = () => {
           <h3 className="text-base font-semibold text-[#5C8374]">Backend Development</h3>
           <p className="text-gray-700 text-sm">
 
-          Knowledgeable in backend development with a focus on  Python, Django. While I may not have hands-on experience in real-time projects, I possess a strong foundational understanding of backend technologies. Familiar with designing RESTful APIs , and I have basic proficiency in Django REST framework for enhancing API capabilities. Additionally, I have basic knowledge of working with MySQL databases to manage and store data efficiently.
+          Knowledgeable in backend development with a focus on  Python, Django. While I may not have hands-on experience in real-time projects, I possess a strong foundational understanding of backend technologies. Familiar with designing RESTful APIs , and I have basic proficiency in <span className='text-black font-semibold'>Django REST framework</span> for enhancing API capabilities. Additionally, I have basic knowledge of working with MySQL databases to manage and store data efficiently.
           </p>
         </div>
 
