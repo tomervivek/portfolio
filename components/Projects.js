@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const Projects = () => {
   const data = [
     {
@@ -71,7 +73,7 @@ const Projects = () => {
           </div>
           {data.map((item, index) => {
             return (
-              <a
+              <Link
                 href={item.link}
                 target="_blank"
                 class="relative flex border border-[#5C8374] flex-col justify-center overflow-hidden bg-gray-50 "
@@ -96,19 +98,19 @@ const Projects = () => {
                       <p>{item.description}</p>
                     </div>
                     <div class="pt-5 text-base font-semibold leading-7">
-                      <p>
-                        <a
+                      <div>
+                        <Link
                           href={item.link}
                           target={"_blank"}
                           class="text-[#5C8374] transition-all duration-300 group-hover:text-white"
                         >
                           Visit website &rarr;
-                        </a>
-                      </p>
+                        </Link>
+                      </div>
                     </div>
                   </div>
                 </div>
-              </a>
+              </Link>
             );
           })}
         </div>

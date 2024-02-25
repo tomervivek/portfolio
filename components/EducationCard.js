@@ -120,10 +120,10 @@ function Resource({ resource }) {
     
         <h3 className="mt-4 px-4 text-sm font-semibold leading-7 text-zinc-900">
         <AcademicCapIcon className='h-14 w-14 text-[#5C8374] opacity-80' />
-          <p>
+          <div>
           <span className='text-[#5C8374] text-base font-bold'> {resource.degree}</span> 
           <div>{resource.institution}</div>
-          </p>
+          </div>
         </h3>
         <p className="mt-1 px-4 text-sm text-zinc-600 dark:text-zinc-400">
           {resource.description}
