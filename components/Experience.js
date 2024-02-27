@@ -56,10 +56,10 @@ const Experience = () => {
               </ul>
             </aside>
 
-            <aside class="relative opacity-90 hidden lg:block">
+            <aside class="relative opacity-90">
               <img
                 class=" object  w-full h-full  "
-                src="/intro-1.png"
+                src="/giphy.gif"
                 alt=""
               />
             </aside>
