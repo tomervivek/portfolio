@@ -33,9 +33,7 @@ return (
               {loadingText}
             </h2>
             <div className="mt-2 text-lg mb-24   md:mb-0 leading-8  text-[#93B1A6]">
-             
-Experienced Front-End Software Developer with over 2 years in the industry. Proficient in JavaScript, 
-React,  NextJS, HTML and CSS.<span className="hidden md:block">Proven track record of enhancing user experiences through innovative solutions and collaborative development.</span>
+            Experienced Front-End Developer with 4 years of expertise in building responsive, user-focused web applications. Proficient in JavaScript, React, Next.js, HTML, and CSS, with a strong track record of delivering intuitive and engaging user experiences through innovative solutions and effective team collaboration.<span className="hidden md:block">Proven track record of enhancing user experiences through innovative solutions and collaborative development.</span>
             </div>
 
           </div>

@@ -17,7 +17,7 @@ const Footer=({scrollToDiv})=>{
     </div>
           <a
           download={true}
-            href="/Vivek-resume-.pdf"
+            href="/Vivek-resume.pdf"
             className="mt-8 inline-block rounded-full border border-[#5C8374] px-12 py-3 text-sm font-medium text-[#5C8374] hover:opacity-80  focus:outline-none focus:ring active:bg-indigo-500"
           >
             Download Resume
@@ -74,7 +74,7 @@ const Footer=({scrollToDiv})=>{
             </li>
             <li>
             <a
-              href="https://www.instagram.com/_viv1.___?igsh=MTF6OWxjYTR5YWd2cA"
+              href="https://www.instagram.com/vivek.singh_87/"
               rel="noreferrer"
               target="_blank"
               className="text-gray-700 transition hover:opacity-75"
