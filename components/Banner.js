@@ -32,7 +32,7 @@ return (
             <h2 className="text-3xl font-bold tracking-tight text-[#5C8374] sm:text-4xl">
               {loadingText}
             </h2>
-            <div className="mt-2 text-lg mb-24   md:mb-0 leading-8  text-[#93B1A6]">
+            <div className="mt-2 text-lg mb-24 text-sm md:text-[18px]  md:mb-0 leading-8  text-[#93B1A6]">
             Experienced Front-End Developer with 4 years of expertise in building responsive, user-focused web applications. Proficient in JavaScript, React, Next.js, HTML, and CSS, with a strong track record of delivering intuitive and engaging user experiences through innovative solutions and effective team collaboration.<span className="hidden md:block">Proven track record of enhancing user experiences through innovative solutions and collaborative development.</span>
             </div>
 

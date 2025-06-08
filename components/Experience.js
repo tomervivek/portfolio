@@ -35,7 +35,7 @@ const Experience = () => {
   };
 
   return (
-    <section className="md:pt-8 -mt-16 lg:mt-4 sm:-mt-10">
+    <section className="md:pt-8 -mt-16 lg:-mt-10 sm:-mt-10">
       <div className="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8">
         <div className="shadow rounded-xl">
           <div className="lg:grid overflow-hidden text-white shadow-xl md:grid-cols-2 bg-white rounded-xl">
